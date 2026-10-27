@@ -262,3 +262,6 @@ Then submit the GitHub repository link as instructed.
 - [Python Downloads](https://www.python.org/downloads/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [GitHub SSH Setup Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+## Module 8
+FastAPI Calculator application with unit, integration, and end-to-end testing using Pytest and Playwright.
